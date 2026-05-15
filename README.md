@@ -21,7 +21,7 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 ### Contributors
 
 <a href="https://github.com/brian-rose/test-actions-cookbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+  <img src="https://contrib.rocks/image?repo=brian-rose/test-actions-cookbook" />
 </a>
 
 ## Structure
